@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aaryansh1
+- 👋 Hi, I’m Aaryansh
 - 👀 I’m interested in next.js
-- 🌱 I’m currently learning to manage work and personal life
-- 💞️ I’m looking to collaborate on nothing currently
+- 🌱 I’m currently learning three.js
+- 💞️ I’m looking to collaborate on MERN Stack, Next.js etc.
 - 📫 How to reach me -> aaryanshsharma8@gmail.com
 
 <!---
