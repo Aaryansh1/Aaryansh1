@@ -11,7 +11,7 @@
 - 👀 I’m interested in next.js
 </div>
 <div>
-- 💞️ I’m looking to collaborate on MERN Stack, Next.js etc. 
+- 💞️ I’m looking to collaborate on PERN Stack, Next.js etc. 
 </div>
  <div>
  - 📫 You can reach me at -> aaryanshsharma8@gmail.com
