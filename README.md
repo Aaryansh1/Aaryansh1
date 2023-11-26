@@ -5,11 +5,11 @@
   👋 Hi, I’m Aaryansh
  </div>
  <div>
-- 🌱 I’m currently learning three.js
+- 🌱 I’m currently learning moding with C# for Vintage Story
 </div>
  <div>
-- 👀 I’m interested in next.js
-</div>
+- 👀 I’m interested in next.js, moding with C# for Vintage Story
+ </div>
 <div>
 - 💞️ I’m looking to collaborate on PERN Stack, Next.js etc. 
 </div>
