@@ -5,13 +5,13 @@
   👋 Hi, I’m Aaryansh
  </div>
  <div>
-- 🌱 I’m currently learning moding with C# for Vintage Story
+- 🌱 I’m currently learning moding and modeling for Vintage Story
 </div>
  <div>
-- 👀 I’m interested in next.js, moding with C# for Vintage Story
+- 👀 I’m interested in three.js and moding with C# for Vintage Story
  </div>
 <div>
-- 💞️ I’m looking to collaborate on PERN Stack, Next.js etc. 
+- 💞️ I’m open to collaborate on PERN Stack, MERN Stack, Next.js etc. 
 </div>
  <div>
  - 📫 You can reach me at -> aaryanshsharma8@gmail.com
