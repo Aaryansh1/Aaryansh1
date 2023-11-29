@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning moding and modeling for Vintage Story
 </div>
  <div>
-- 👀 I’m interested in three.js and moding with C# for Vintage Story
+- 👀 I’m interested in three.js
  </div>
 <div>
 - 💞️ I’m open to collaborate on PERN Stack, MERN Stack, Next.js etc. 
