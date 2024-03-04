@@ -5,7 +5,7 @@
   👋 Hi, I’m Aaryansh
  </div>
  <div>
-- 🌱 I’m currently learning moding and modeling for Vintage Story
+- 🌱 I’m currently learning react-ionic
 </div>
  <div>
 - 👀 I’m interested in three.js
