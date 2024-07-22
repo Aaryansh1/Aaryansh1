@@ -10,9 +10,6 @@
  <div>
 - 👀 I’m interested in three.js
  </div>
-<div>
-- 💞️ I’m open to collaborate on PERN Stack, MERN Stack, Next.js etc. 
-</div>
  <div>
  - 📫 You can reach me at -> aaryanshsharma8@gmail.com
  </div>
