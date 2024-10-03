@@ -5,7 +5,7 @@
   👋 Hi, I’m Aaryansh
  </div>
  <div>
-- 🌱 I’m currently learning react-ionic
+- 🌱 I’m currently learning Next.js 14
 </div>
  <div>
 - 👀 I’m interested in three.js
