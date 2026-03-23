@@ -2,13 +2,13 @@
  <image src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100" />
 </div>
 <div align="center">
-  👋 Hi, I’m Aaryansh
+  👋 Hi, I’m Aaryansh, SDE-2 at Treez 
  </div>
  <div>
-- 🌱 I’m currently learning Next.js 14
+- 🌱 I’m currently learning system design, architecture and more
 </div>
  <div>
-- 👀 I’m interested in three.js
+- 👀 I’m interested in system optimizations 
  </div>
  <div>
  - 📫 You can reach me at -> aaryanshsharma8@gmail.com
